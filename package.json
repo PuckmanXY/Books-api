@@ -1,0 +1,26 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "Books-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuckmanXY/Books-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PuckmanXY/Books-api/issues"
+  },
+  "homepage": "https://github.com/PuckmanXY/Books-api#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "express": "^4.16.3"
+  }
+}
